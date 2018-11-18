@@ -1,0 +1,27 @@
+
+body {
+    color: #D6B359;
+}
+
+#row_btn {
+    position: absolute;
+    bottom: 30px;
+}
+
+.btn {
+
+    height: 200px;
+    width: 200px;
+    border: 5px, solid, #317067;
+    margin: 10px;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
